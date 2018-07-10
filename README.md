@@ -1,6 +1,9 @@
 # elecciones-catalanas-21d
 Este script genera los resultados de las elecciones catalanas del 21D que usamos en el [interactivo de Politibot](https://politibot.io/asi-ha-votado-cataluna/).
 
+## Datos
+El archivo [resultados_2017.csv](https://github.com/politibot/elecciones-catalanas-21d/blob/master/resultados_2017.csv) contiene los resultados limpios.
+
 ## Fuentes
 Los datos están organizados en estas tres carpetas:
 
@@ -12,7 +15,7 @@ Los resultados vienen directamente del feed de datos en tiempo real de la Genera
 
 También adjuntamos los resultados de 2015 para poder hacer comparaciones y los contornos de los municipios que usamos en el mapa electoral.
 
-Estas son los datos que cruzamos a nivel municipal
+Esto es lo que cruzamos a nivel municipal:
 
 - [Población de 2 años y más según conocimiento del catalán](https://www.idescat.cat/pub/?id=censph&n=17&by=mun)
 - [Población de 16 años y más según nivel educativo](https://www.idescat.cat/pub/?id=censph&n=15&by=mun)
